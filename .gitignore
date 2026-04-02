@@ -46,3 +46,4 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+force-app/main/default/flows/Test_Tasks_Complete_for_Opp_Closure.flow-meta.xml
